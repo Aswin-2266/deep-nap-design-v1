@@ -1,0 +1,6 @@
+{
+  "name": "Deep Nap Mattress",
+  "description": "Bespoke, climate-adapted sleep systems made to order in Coimbatore, Tamil Nadu with calibrated firmness, custom sizes, and factory-direct pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
